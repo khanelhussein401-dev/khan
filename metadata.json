@@ -1,0 +1,6 @@
+{
+  "name": "خان الحسين | Khan Elhussein - ملوش منافسين",
+  "description": "متجر خان الحسين للأدوات المنزلية، الرفايع، البلاستيك، المجات، الحلل، الميلامين، الزجاج، والكهرباء - ملوش منافسين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
